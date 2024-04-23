@@ -8,3 +8,4 @@ console.log(filterOutOdds(7, 8, 9, 10, 11, 12)); // [8, 10, 12]
 console.log(filterOutOdds(15, 17, 19)); // []
 console.log(filterOutOdds()); // []
 ```
+ชัยรัตน์ ทรัพย์สนอง (ตูน)
